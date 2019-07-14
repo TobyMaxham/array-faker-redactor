@@ -76,10 +76,6 @@ $redactor = (new ArrayFakerRedactor())->content($content)->keys(['key' => 'myfor
     ->redact();
 ```
 
-## Credits
-
-- TobyMaxham
-
 
 ## Testing
 
@@ -90,6 +86,16 @@ You can run the tests with:
 ```
 
 
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+
+## Credits
+
+- TobyMaxham
+
+
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE) for more information.
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
