@@ -1,0 +1,39 @@
+{
+  "name": "tobymaxham/array-faker-redactor",
+  "description": "A PHP package to redact or fake array values by their keys.",
+  "keywords": [
+    "array",
+    "faker",
+    "laravel",
+    "redactor",
+    "redact"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tobias Maxham",
+      "email": "git2019@maxham.de"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "mtownsend/array-redactor": "^1.0",
+    "fzaninotto/faker": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "TobyMaxham\\ArrayFakerRedactor\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "TobyMaxham\\ArrayFakerRedactor\\Test\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^2.15",
+    "phpunit/phpunit": "^8.2"
+  },
+  "minimum-stability": "stable"
+}
