@@ -3,6 +3,12 @@ TobyMaxham Array Faker Redactor
 
 A PHP package to redact or fake array values by their keys no matter how deep the array.
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/tobymaxham/array-faker-redactor.svg?style=flat-square)](https://packagist.org/packages/tobymaxham/array-faker-redactor)
+[![GitHub commits](https://img.shields.io/github/commits-since/tobymaxham/array-faker-redactor/v1.0.svg)](https://GitHub.com/tobymaxham/array-faker-redactor/commit/)
+[![Total Downloads](https://img.shields.io/packagist/dt/tobymaxham/array-faker-redactor.svg?style=flat-square)](https://packagist.org/packages/tobymaxham/array-faker-redactor)
+[![GitHub contributors](https://img.shields.io/github/contributors/tobymaxham/array-faker-redactor.svg)](https://GitHub.com/TobyMaxham/array-faker-redactor/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/tobymaxham/array-faker-redactor.svg)](https://GitHub.com/TobyMaxham/array-faker-redactor/issues/)
+
 ## Notice
 This packages uses the `mtownsend/array-redactor` package by [mtownsend5512](https://github.com/mtownsend5512) and the `Faker` library by [fzaninotto](https://github.com/fzaninotto).
 So for more details to those packages look at the repositories readme files:
